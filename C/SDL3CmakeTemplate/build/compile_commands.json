@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/C/Template/build",
+  "command": "/data/data/com.termux/files/usr/bin/clang   -g -o CMakeFiles/Template.dir/Template.c.o -c /data/data/com.termux/files/home/C/Template/Template.c",
+  "file": "/data/data/com.termux/files/home/C/Template/Template.c",
+  "output": "CMakeFiles/Template.dir/Template.c.o"
+}
+]

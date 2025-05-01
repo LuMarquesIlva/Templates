@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/C/NcursesTemplate/build/CMakeFiles/NcursesTemplate.dir
+/data/data/com.termux/files/home/C/NcursesTemplate/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/C/NcursesTemplate/build/CMakeFiles/rebuild_cache.dir

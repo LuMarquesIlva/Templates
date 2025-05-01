@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/cc -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/NcursesTemplate.dir/link.d CMakeFiles/NcursesTemplate.dir/main.c.o -o NcursesTemplate  -lncurses
