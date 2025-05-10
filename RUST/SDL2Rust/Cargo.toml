@@ -1,0 +1,11 @@
+[package]
+name = "Template"
+version = "0.0.1"
+authors = ["Elsarques"]
+edition = "2024"
+
+[dependencies]
+sdl2 = "0.37"
+
+#[dependencies.sdl2]
+#git = "https://github.com/rust-sdl2/rust-sdl2"
